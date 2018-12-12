@@ -1,6 +1,8 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
+#define OPENSLES_SUPPORT  1
+
 /* Define to enable ALSA driver */
 /* #undef ALSA_SUPPORT */
 
